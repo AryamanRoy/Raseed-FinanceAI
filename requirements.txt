@@ -1,0 +1,17 @@
+# --- API and Web Framework ---
+fastapi
+uvicorn
+python-multipart
+
+# --- Google Gemini ---
+google-generativeai
+
+# --- Data and Utility ---
+pandas
+python-dotenv
+
+# --- Optional (for testing/legacy UI) ---
+streamlit
+
+# --- Typing / Pydantic ---
+pydantic
